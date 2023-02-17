@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /**
  * main - standard input and output
  *
